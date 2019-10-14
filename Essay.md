@@ -25,8 +25,16 @@ The first website was built shortly after at [info.cern.ch](https://info.cern.ch
 
 ## Continued Contributions
 
-Berners-Lee has in the modern day become the front face for the internet and is credited by many with its creation. He has remained active in the area of data protection, promotion of a more open web and as a key figure in pushing for technology to advance. He as lead an initiaive with the UK govenment on the [data.gov.uk](https://data.gov.uk) open data initiative which intends to publish all data acquired for official purposed for free re-use.
+Berners-Lee has in the modern day become the front face for the internet and is credited by many with its creation. He has remained active in the area of data protection, promotion of a more open web and as a key figure in pushing for technology to advance. He as lead an initiative with the UK government on the [data.gov.uk](https://data.gov.uk) open data initiative which intends to publish all data acquired for official purposed for free re-use.
 
 He also launched the World Wide Web Foundation which pushes to give connect the remaining 50% of the world still not online, and to provide a web worth connecting to.
 
-He has been a considerable voice in favour of net neutrality. Net neutrality is quickly becoming a huge issue in the modern lanscape as both govenements and ISP's are attempting to take
+He has been a considerable voice in favour of net neutrality. Net neutrality is quickly becoming a huge issue in the modern landscape as both governments and ISP's are attempting to take what is considered by many, a fundamental right to the access information that the internet provides. He sees the problem of net neutrality as a threat to the original vision of the internet as an open and collaborative body driven to better those who have access to it, and any invasion of this either due to cost or lack of privacy as an issue. This theme in his continued contributions can be seen further in his involvement in the Alliance for Affordable Internet as a coalition of large technology companies and individuals focused on making net access viable for everyone.
+
+Most recently Burners-lee has become involved in Solid. Solid is a new decentralized web project focused on giving each individual user a true data ownership and allowing connectivity akin to the hopes laid down by the semantic web project. The project is open source and hopes to construct a decentralized peer-to-peer network where each user stores their personal information in a POD, essentially described as a "USB for the internet". The hope is to give users more control over their own data, especially after the data protection scandals of the likes of the cambridge analytic and the Russian involvements in the most recent US elections.
+
+## Closing Statement
+
+Berners-Lee is considered a British cultural icon today and his ongoing commitments to technology, science and social justice surrounding them is a testament to the field of software engineering and computer science as a whole. His story is a brilliant example of how an engineer with the right tools and the right idea can go on to change the world, but perhaps more importantly he shows an example of someone who takes absolute ownership of his work as he fights to see it used to its fullest potential for as many people as possible. People following his example can be seen across the open source ecosystem and we as engineers owe him an astronomical amount.
+
+>He wove and created a mass medium for the 21st century, and has fought more than anyone to keep it open, nonproprietary and free.

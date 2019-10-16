@@ -37,6 +37,6 @@ During his life Berners-Lee has be awarded a plethora of accolades and recogniti
 
 ## Closing Statement
 
-Berners-Lee is considered a British cultural icon today and his ongoing commitments to technology, science and social justice surrounding them is a testament to the field of software engineering and computer science as a whole. His story is a brilliant example of how an engineer with the right tools and the right idea can go on to change the world, but perhaps more importantly he shows an example of someone who takes absolute ownership of his work as he fights to see it used to its fullest potential for as many people as possible. People following his example can be seen across the open source ecosystem and we as engineers owe him an astronomical amount.
+Berners and Lee is considered a British cultural icon today and his ongoing commitments to technology, science and social justice surrounding them is a testament to the field of software engineering and computer science as a whole. His story is a brilliant example of how an engineer with the right tools and the right idea can go on to change the world, but perhaps more importantly he shows an example of someone who takes absolute ownership of his work as he fights to see it used to its fullest potential for as many people as possible. People following his example can be seen across the open source ecosystem and we as engineers owe him an astronomical amount.
 
 >He wove and created a mass medium for the 21st century, and has fought more than anyone to keep it open, nonproprietary and free.
